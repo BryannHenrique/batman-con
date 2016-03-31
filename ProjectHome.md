@@ -1,0 +1,1 @@
+Batch Jobs Management Console provides a web-based application written in Grails to monitor batch runs of Spring Batch-based batch jobs. It currently only provides monitoring, but will later be enhanced to include launching, scheduling and other management functions.
